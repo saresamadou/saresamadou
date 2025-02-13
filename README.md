@@ -21,4 +21,4 @@ I am a Software developer, passionate for Crafting applications the best way I c
 - 👯 I’m looking to collaborate on project using Domain Driven Design, Test Driven Design, Domain centric achitecture like Hexagonal architecture, and AWS cloud.
 
 - 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/aboudou-samadou-sare-5b267a62/
+- 📫 How to reach me: Linkedin[https://www.linkedin.com/in/aboudou-samadou-sare-5b267a62/]
